@@ -40,3 +40,5 @@ Application, Environment, App version, platform (ex: Python, Java,node.js, docke
 Workflow ---> User Browser - DNS - Loadbalancer -EC2 - Application
 
 
+app.zip for Python Demo and Dockerfile-eb.zip for Docker. platform selection
+
