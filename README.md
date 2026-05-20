@@ -1,8 +1,6 @@
 # AWSElasticBeanstalk
 
 
-# AWS Elastic Beanstalk
-
 Ec2, Loadbalancer, autoscaling, security groups, monitoring etc in manually.
 
 Elastic beanstalk does all of these automatically
